@@ -1,6 +1,5 @@
 ### Casey They/She 
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casefaz&theme=blueberry&layout=compact)](https://github.com/casefaz/github-readme-stats)
 
 ![Casey's GitHub stats](https://github-readme-stats.vercel.app/api?username=casefaz&theme=blueberry&show_icons=true)
