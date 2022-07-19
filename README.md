@@ -1,4 +1,9 @@
-### Casey They/She 
+### Hi, I'm Casey and I use They/She pronouns
+> ([information about pronouns and why they matter](https://www.edi.nih.gov/blog/communities/what-are-gender-pronouns-why-do-they-matter#:~:text=Using%20appropriate%20pronouns%20is%20a,pronouns%20respected%20in%20the%20workplace.))
+
+![ponyo](https://user-images.githubusercontent.com/98674727/179648965-320c11e5-a4bd-4f91-af94-bb4a47b4447c.gif)
+
+I am a software engineer who aspires to be more like Ponyo, leaning into joy and learning through new experiences.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casefaz&theme=blueberry&layout=compact)](https://github.com/casefaz/github-readme-stats)
 
@@ -17,4 +22,8 @@ Cards provided by [anuraghazra](https://github.com/anuraghazra/github-readme-sta
   <a href="https://www.linkedin.com/in/casefaz/"><img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
   <a href="mailto:casefazio@gmail.com"><img alt="email" src="https://img.shields.io/badge/-Email-f2c236.svg?style=for-the-badge&colorB=0078D4" /></a>
 </section>
-<!--
+
+#### Supplemental Links from How Does Your Garden Grow
+* [Land Acknowledgements](https://native-land.ca/) - find out who's ancestral land you reside on
+* [Food Sovereingty](https://weseedchange.org/food-sovereignty/) - making growing food accessible
+* [Rematriation](https://lithub.com/seedkeeper-rowen-white-on-the-rematriation-of-seeds-to-their-native-lands/)
