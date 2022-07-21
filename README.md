@@ -23,7 +23,3 @@ Cards provided by [anuraghazra](https://github.com/anuraghazra/github-readme-sta
   <a href="mailto:casefazio@gmail.com"><img alt="email" src="https://img.shields.io/badge/-Email-f2c236.svg?style=for-the-badge&colorB=0078D4" /></a>
 </section>
 
-#### Supplemental Links from [How Does Your Garden Grow](https://github.com/casefaz/garden_plans)
-* [Land Acknowledgements](https://native-land.ca/) - find out who's ancestral land you reside on
-* [Food Sovereingty](https://weseedchange.org/food-sovereignty/) - making growing food accessible
-* [Rematriation](https://lithub.com/seedkeeper-rowen-white-on-the-rematriation-of-seeds-to-their-native-lands/)
