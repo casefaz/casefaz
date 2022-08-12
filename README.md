@@ -3,7 +3,7 @@
 
 ![ponyo](https://user-images.githubusercontent.com/98674727/179648965-320c11e5-a4bd-4f91-af94-bb4a47b4447c.gif)
 
-I am a software engineer who aspires to be more like Ponyo, leaning into joy and learning through new experiences.
+I am a software engineer who aspires to be more like Ponyo - leaning into joy and learning through new experiences.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casefaz&theme=blueberry&layout=compact)](https://github.com/casefaz/github-readme-stats)
 
