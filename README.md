@@ -26,11 +26,6 @@
 - [Roed To Aid](https://github.com/Roe-dToAid)
 - [Bulk Discounts](https://github.com/casefaz/little-esty-bulk-discounts)
 - [Connect Four](https://github.com/casefaz/connect_four)
-  
-
-![Casey's GitHub stats](https://github-readme-stats.vercel.app/api?username=casefaz&theme=blueberry&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casefaz&theme=blueberry&layout=compact)](https://github.com/casefaz/github-readme-stats)
 
 
 Cards provided by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
