@@ -6,9 +6,21 @@
 <img src="https://reefbuilders.com/wp-content/blogs.dir/1/files/2013/04/mantis_shrimp2_7.jpg" alt="drawing of a mantis shrimp from popular cartoonist the oatmeal" width="70%"/>
 </div>
 
-## I'm a software developer specializing in back-end engineering. I also like bucket hats.  
+## I'm a software developer specializing in back-end engineering. I also like bucket hats.
 
-## Resume Project GitHub Links:
+<!-- TABLE OF CONTENTS -->
+<div align="center">
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#resume-project-github-links">Resume Projects</a></li>
+    <li><a href="#technologies">Technologies</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details> 
+</div>
+
+# Resume Project GitHub Links:
 
 - [Moon Garden](https://github.com/Moon-Garden)
 - [Roed To Aid](https://github.com/Roe-dToAid)
