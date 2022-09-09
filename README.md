@@ -3,10 +3,10 @@
 
 
 <div align="center">
-<img src="http://68.media.tumblr.com/5d743a3a7ad4a620bf57077fab484096/tumblr_oplnmzMkRS1uob8tfo1_540.gif" alt="dandelion seeds blowing in the wind with a green background" width="70%"/>
+<img src="https://reefbuilders.com/wp-content/blogs.dir/1/files/2013/04/mantis_shrimp2_7.jpg" alt="drawing of a mantis shrimp from popular cartoonist the oatmeal" width="70%"/>
 </div>
 
-  
+## I'm a software developer specializing in back-end engineering. I also like bucket hats.  
 
 ## Resume Project GitHub Links:
 
