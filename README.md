@@ -28,7 +28,6 @@
 - [Connect Four](https://github.com/casefaz/connect_four)
 
 
-Cards provided by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 ## Technologies
 ![Ruby](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
