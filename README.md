@@ -3,7 +3,7 @@
 
 
 <div align="center">
-<img src="https://reefbuilders.com/wp-content/blogs.dir/1/files/2013/04/mantis_shrimp2_7.jpg" alt="drawing of a mantis shrimp from popular cartoonist the oatmeal" width="70%"/>
+<img src="http://2.bp.blogspot.com/-52ZsBnuNV54/T7uLw2V0DjI/AAAAAAAAFr0/vEkX1Izj80w/s400/mantis.jpg" alt="drawing of a mantis shrimp from popular cartoonist the oatmeal" width="60%"/>
 </div>
 
 ## I'm a software developer specializing in back-end engineering. I also like bucket hats.
