@@ -1,4 +1,4 @@
-# Hi, I'm Casey and I use They/She pronouns 
+# Hi, I'm Casey(they/she)
 ### ([information about pronouns and why they matter](https://www.edi.nih.gov/blog/communities/what-are-gender-pronouns-why-do-they-matter#:~:text=Using%20appropriate%20pronouns%20is%20a,pronouns%20respected%20in%20the%20workplace.))
 
 
@@ -6,7 +6,7 @@
 <img src="http://2.bp.blogspot.com/-52ZsBnuNV54/T7uLw2V0DjI/AAAAAAAAFr0/vEkX1Izj80w/s400/mantis.jpg" alt="drawing of a mantis shrimp from popular cartoonist the oatmeal" width="60%"/>
 </div>
 
-## I'm a software developer specializing in back-end engineering. I also like bucket hats.
+## I'm a data specialist specializing in data engineering and back-end development. I also like bucket hats.
 
 <!-- TABLE OF CONTENTS -->
 <div align="center">
