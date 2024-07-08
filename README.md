@@ -1,24 +1,12 @@
 # Hi, I'm Casey(they/she)
-### ([information about pronouns and why they matter](https://www.edi.nih.gov/blog/communities/what-are-gender-pronouns-why-do-they-matter#:~:text=Using%20appropriate%20pronouns%20is%20a,pronouns%20respected%20in%20the%20workplace.))
+([information about pronouns and why they matter](https://www.edi.nih.gov/blog/communities/what-are-gender-pronouns-why-do-they-matter#:~:text=Using%20appropriate%20pronouns%20is%20a,pronouns%20respected%20in%20the%20workplace.))
 
+## I'm a data specialist with a focus in data engineering and back-end development. I also like bucket hats and community organizing.
 
 <div align="center">
 <img src="http://2.bp.blogspot.com/-52ZsBnuNV54/T7uLw2V0DjI/AAAAAAAAFr0/vEkX1Izj80w/s400/mantis.jpg" alt="drawing of a mantis shrimp from popular cartoonist the oatmeal" width="60%"/>
 </div>
 
-## I'm a data specialist specializing in data engineering and back-end development. I also like bucket hats.
-
-<!-- TABLE OF CONTENTS -->
-<div align="center">
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#resume-project-github-links">Resume Projects</a></li>
-    <li><a href="#technologies">Technologies</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details> 
-</div>
 
 # Resume Project GitHub Links:
 
